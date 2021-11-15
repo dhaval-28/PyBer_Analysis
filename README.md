@@ -21,7 +21,7 @@ Ride-sharing data Analysis:
 ![figure](https://github.com/dhaval-28/PyBer_Analysis/blob/main/Analysis/PyBer_fare_summary.png)
 
 
-Multiple-line graph compares total fares by city type over a period of four months. The total fare  goes to peak in beginning of the last week in Feburary in all three city types. In Rural area it goes even more higher in beginning of April.  Rest of the months total fare flucuates. 
+Multiple-line graph compares total fares by city type over a period of four months. The total fare  goes to peak in beginning of the last week in Feburary in all three city types. In Rural area it goes even more higher in beginning of April.  Rest of the months total fare fluctuates. 
 
 ## Summary
 (1) Average fare per driver : There is a huge disparities in average fare per driver by city type. The average fare per driver is too low in Urban area. CEO should consider limiting number of drivers in urabn area to address this disparities.
